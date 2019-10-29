@@ -10,7 +10,9 @@
 [GitHub OAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app)
 [okhttp](https://square.github.io/okhttp/)
 [Spring](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-container)
+[thymeleaf](https://www.thymeleaf.org/)
 
 ##工具
 [Git](https://git-scm.com/download)
 [Visual Paradigm](https://www.visual-paradigm.com)
+[lombok](https://projectlombok.org/)
