@@ -4,9 +4,6 @@ body {
 
 .main {
     margin: 30px;
-}
-
-.bg_main {
     background-color: #ffffff;
 }
 
@@ -24,5 +21,9 @@ body {
     font-size: 12px;
     font-weight: normal;
     color: #999999;
+}
+
+.profile .section{
+    margin-top: 15px;
 }
 

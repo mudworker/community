@@ -15,4 +15,5 @@
 ##工具
 [Git](https://git-scm.com/download)
 [Visual Paradigm](https://www.visual-paradigm.com)
-[lombok](https://projectlombok.org/)
+[lombok](https://projectlombok.org/) 通过注解@Data自动生成 get，set方法
+[springboot DeveloperTool](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#using-boot-devtools) 热部署
