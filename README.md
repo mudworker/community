@@ -11,6 +11,7 @@
 [okhttp](https://square.github.io/okhttp/)
 [Spring](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-features-embedded-container)
 [thymeleaf](https://www.thymeleaf.org/)
+[interceptor拦截器](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/web.html#mvc-handlermapping-interceptor)
 
 ##工具
 [Git](https://git-scm.com/download)
