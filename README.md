@@ -18,3 +18,10 @@
 [Visual Paradigm](https://www.visual-paradigm.com)
 [lombok](https://projectlombok.org/) 通过注解@Data自动生成 get，set方法
 [springboot DeveloperTool](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#using-boot-devtools) 热部署
+[Mybatis Generator](http://mybatis.org/generator/quickstart.html) mybatis自动生成model和xml
+[PageHelper](https://github.com/pagehelper/Mybatis-PageHelper/blob/master/wikis/zh/HowToUse.md) mybatis分页工具
+
+##脚本
+```bash
+mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
+```
